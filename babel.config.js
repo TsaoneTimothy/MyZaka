@@ -7,8 +7,7 @@ module.exports = function (api) {
       '@babel/plugin-transform-private-methods',
       '@babel/plugin-transform-private-property-in-object',
       '@babel/plugin-transform-nullish-coalescing-operator',
-      '@babel/plugin-transform-optional-chaining',
-      'expo-router/babel',
+      '@babel/plugin-transform-optional-chaining'
     ],
   };
 }; 
