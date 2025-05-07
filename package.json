@@ -50,6 +50,8 @@
     "@babel/plugin-transform-class-properties": "^7.27.1",
     "@babel/plugin-transform-nullish-coalescing-operator": "^7.27.1",
     "@babel/plugin-transform-optional-chaining": "^7.27.1",
+    "@babel/plugin-transform-private-methods": "^7.27.1",
+    "@babel/plugin-transform-private-property-in-object": "^7.27.1",
     "@types/react": "~18.3.12",
     "typescript": "^5.3.3"
   }
